@@ -26,7 +26,7 @@ Para acessar meus projetos pessoais, visite meu perfil principal:
 
 ## 📫 Contato profissional
 - **Email:** seu-email@exemplo.com  
-- **LinkedIn:** *adicione aqui seu link*
+- <a href="linkedin.com/in/caue-anastacio"> **LinkedIn:** </a>
 
 <!--
 
