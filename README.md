@@ -13,9 +13,6 @@ Para acessar meus projetos pessoais, visite meu perfil principal:
 
 <div align="center">
 
-<!-- Gráfico de Commits -->
-![GitHub Streak](https://streak-stats.demolab.com?user=Catadordegames&theme=github-dark-blue&hide_border=true)
-
 <!-- Github Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Catadordegames&show_icons=true&theme=github_dark&hide_border=true)
 
